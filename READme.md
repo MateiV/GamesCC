@@ -1,12 +1,14 @@
-1) Descrierea problemei
+1) Introducere
 
 "Video Games" este o aplicație realizată pentru cei ce joaca jocuri video competitve de tip 1 vs 1. Prin aceasta aplicatie am dorit sa pot sa adaug un joc, sa adaug un meci intre doi jucatori si sa determin castigatorul. Am adaugat si o sectiune de "Statistici Generale" si "Statistici personale" pentru a putea urmari evolutia jucatorilor in timp. 
 
-Am construit aceasta aplicatie pentru a fi una cu o pagina unica ce serveste drept portal pentru restul functiilor implementate. In primul rand am implementat partea de Back-end cu ajutorul NodeJS. Urmatorul pas a fost legarea aplicatiei de o baza de date. Am ales sa folosesc Firebase, mai exact o instanta de baza de date nerelationara: Firestore. Am ales aceasta varianta doarece doream sa folosesc Firebase si pentru implementarea unei facilitati de Inregistrare si Autentificare utilizator. Nu in ultimul rand am lucrat la partea de front-end a aplicatie folosind React si Redux. 
+2) Descrierea problemei
+
+Aplicatia mea este una de tip Single-Page, pagina principala servind drept un portal pentru restul functiilor implementate. In primul rand am implementat partea de Back-end cu ajutorul NodeJS. Urmatorul pas a fost legarea aplicatiei de o baza de date. Am ales sa folosesc Firebase, mai exact o instanta de baza de date nerelationara: Firestore. Am ales aceasta varianta doarece doream sa folosesc Firebase si pentru implementarea unei facilitati de Inregistrare si Autentificare utilizator. Nu in ultimul rand am lucrat la partea de front-end a aplicatie folosind React si Redux. 
 
 Dupa cum am mentionat deja, un utilizator se poate inregistra, va trebui sa confirme adresa de e-mail furnizata, dupa care se poate autentifica in aplicatie. Un utilizator care nu confirma adresa de e-mail nu se va putea autentifica.
 
-2)	Descriere API
+3)	Descriere API
 
 I) Firestore API:
 •	Folosim firestore pentru a initializa, a ne conecta, a stoca date si a modifica datele stocate in baza de date. 
@@ -27,7 +29,7 @@ Pentru a putea accesa API-ul a fost necesar sa ma inregistrez pe platforma celor
 
 ![](readmepics/Randombutton.png)
 
-3)	Flux de date
+4)	Flux de date
 
 Atunci cand trimitem un request de tip GET catre API-ul furnizat de catre boardgameatlas, vom primi inapoi urmatorii parametrii:
 •	Id
@@ -54,7 +56,14 @@ De asemenea, asa cum am mentionat in descrierea aplicatiei este necesara parcurg
 ![](readmepics/ConfirmareEmailInterfata.png)
 
 
-III) Referinte proiect
+5) Referinte proiect
+Firebase:
 https://firebase.google.com/docs/reference/js
+BoardGameAtlas:
 https://www.boardgameatlas.com/api/docs
+Link catre GitHub personal:
+https://github.com/MateiV/GamesCC
+Link video:
+
+Link publicare:
 
