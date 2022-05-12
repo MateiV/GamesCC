@@ -57,6 +57,7 @@ De asemenea, asa cum am mentionat in descrierea aplicatiei este necesara parcurg
 
 
 5) Referinte proiect
+
 Firebase:
 https://firebase.google.com/docs/reference/js
 BoardGameAtlas:
