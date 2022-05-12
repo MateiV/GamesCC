@@ -1,0 +1,24 @@
+
+.formInputsStyle{ 
+    position: relative;
+}
+  
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
+
+.label-right {
+    display: inline-block;
+    text-align: right;
+  }​
+  
+.titleStyle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #006d77;
+}
+  

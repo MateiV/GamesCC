@@ -1,0 +1,36 @@
+
+html{
+  background-color: #006d77;
+}
+
+.landingPageContainer{
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+}
+
+.imageBackground{
+  height: 85vh;
+  width: 100vw;
+  
+  
+  overflow: hidden;
+
+  background-image: url("../assets/images/MainPageBG.jpg");
+  background-size: cover; 
+  background-position: center center;
+
+  border-bottom:  5px solid #004950;
+  border-radius: 0em 0em 4em 4em;
+}
+
+.footer{
+  display: flex;
+  justify-content:space-around ;
+  margin-top: 1em;
+}
+
+.formInputs{
+  /* background-color: blue; */
+}
+

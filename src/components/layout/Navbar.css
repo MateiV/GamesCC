@@ -1,0 +1,25 @@
+.transparentBG {
+    background-color: rgba(0,0,0,0);
+}
+
+.greenText{
+    color: #006d77 !important;
+}
+
+.burgundyText{
+    color: #843B62 !important;
+}
+
+.big{
+    font-size: 2em;
+}
+
+.no-shadows {
+    box-shadow: none!important;
+}
+
+.disabled {
+    pointer-events:none; 
+}
+
+  

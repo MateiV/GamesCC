@@ -1,0 +1,26 @@
+.centerContainerOverride{
+    border: 0.1px solid;
+    border-radius: 4em;
+    height: 80vh;   
+    width: 85vw;
+    max-width: 100%;
+    max-height: 100%;
+    background-color: rgb(255, 255, 255);
+  }
+
+.banner{
+  overflow: hidden;
+  border-top-left-radius: 4em;
+  border-top-right-radius: 4em;
+  background-color: #006d77;
+  background-image: url("https://images.unsplash.com/photo-1436491865332-7a61a109cc05?ixlib=rb-1.2.1&auto=format&fit=crop&w=1053&q=80");
+  background-size: cover; 
+  background-position:  center bottom;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 30vh;
+}
+
+.half-out{
+  margin-top: -60px;
+}
