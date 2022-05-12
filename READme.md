@@ -65,6 +65,7 @@ https://www.boardgameatlas.com/api/docs
 Link catre GitHub personal:
 https://github.com/MateiV/GamesCC
 Link video:
-
+https://youtu.be/_Tmxu0HHtqc
 Link publicare:
+
 
