@@ -67,5 +67,7 @@ https://github.com/MateiV/GamesCC
 Link video:
 https://youtu.be/_Tmxu0HHtqc
 Link publicare:
+Datorita unor probleme privind permisiile pentru instalarea anumitor packete, nu am putut updata corect unele pachete pe care le-am folosit pentru a construi aplicatia. Astfel desi am putut sa completez procesul de deploy pe Heroku, aplicatia nu este pornita corect. Voi lasa un link catre URL-ul unde a fost deployata aplicatia. 
+https://agile-waters-23452.herokuapp.com/
 
 
